@@ -32,7 +32,8 @@ Used following three classification models to determine features that affect the
 * The high imdb score of movie depends on several factors but most importantly users’ votes, budget and duration matter the most as well  as the budget of the movie.
 * Outcomes of this project can help the movie makers understand factors that lead to a successful and more profit-based revenue movies. 
 
-
+## Contact
+Created by [@pmehta27](https://www.linkedin.com/in/pooja-ym-mehta) - Please feel free to contact me, thank you for your time!
 
 
 
