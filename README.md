@@ -26,6 +26,15 @@ Used following three classification models to determine features that affect the
 * KNN
 * Random Forest
 
+## Conclusion
+
+* In comparison with all the models-built Random Forest has the highest accuracy and is optimum for predicting imdb score of a movie.
+* The high imdb score of movie depends on several factors but most importantly users’ votes, budget and duration matter the most as well  as the budget of the movie.
+* Outcomes of this project can help the movie makers understand factors that lead to a successful and more profit-based revenue movies. 
+
+
+
+
 
 
 
